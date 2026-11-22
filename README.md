@@ -2,6 +2,8 @@ This fork is here to change the help message styling from underlines back to col
 
 I also have statically linked binaries available for Linux in the releases, for both x86-64 and Arm 64. They are statically linked and stripped, which makes them significantly smaller than the default releases, and also means they don't depend on glibc, so they can run on distros like Alpine that don't use glibc.
 
+I don't know what I did to make it say 267 commits ahead, somehow I screwed up. The binaries should still be fine to use, though. If I ever want to make more changes to this I'll make a new fork
+
 *I used no generative AI in any part of the process of making and making modifications to this fork.*
 
 # trashy
